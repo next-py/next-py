@@ -1,6 +1,0 @@
-SQLAlchemy
-sqlalchemy-utils
-tqdm
-fastapi
-pytest
-pandas
