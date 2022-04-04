@@ -1,0 +1,11 @@
+*.pytest_cache
+*.pyc
+__pycache__/
+.ipynb_checkpoints
+
+*.ipynb
+*.pdf
+*.html
+*.xlsx
+*.csv
+*/notebooks
